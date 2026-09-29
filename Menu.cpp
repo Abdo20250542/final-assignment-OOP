@@ -1,7 +1,7 @@
 // عمرو احمد طه شيحه         20250449   filter  (2-6)
 // جابر اكرامي جابر الزغبي   20250140  filter (1-5)
 // كريم محمد السيد سليمان    20250490  filter (3-7)
-// بودي                        00000000  filter (4-8)
+// محمد اشرف فتحي عبدالمقصود                  20250542  filter (4-8)
 #include <iostream>
 #include "Image_class.h"
 using namespace std;
